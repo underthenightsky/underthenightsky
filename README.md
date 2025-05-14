@@ -4,7 +4,6 @@
   
 - 💞️ I’m looking to collaborate on Deep Learning Projects and fullstack prokjects.
 - 📫 How to reach me josephkurianjohn49@gmail.com
-- 😄 Pronouns: They / Them
 - ⚡ Fun fact: Uranus is no longer a planet just like HTML isn't a real language ;)
 
 <!---
