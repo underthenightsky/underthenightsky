@@ -2,9 +2,9 @@
 - 👀 I’m interested in Machine Learning , Artificial Intelligence , Python and JavaScript
 - 🌱 I’m currently learning Deep Learning and mastering 3D projects for React and React-Native
   
-- 💞️ I’m looking to collaborate on Deep Learning Projects and fullstack prokjects.
+- 💞️ I’m looking to collaborate on  Fullstack projects.
 - 📫 How to reach me josephkurianjohn49@gmail.com
-- ⚡ Fun fact: Uranus is no longer a planet just like HTML isn't a real language ;)
+
 
 <!---
 underthenightsky/underthenightsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
